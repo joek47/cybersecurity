@@ -14,7 +14,7 @@ To manage cyber threats the priority is to patch it regularly and harden it with
 , i.e. browser blocker plug-in, sandbox the browser, run the broswer in VM to better secure the system.
 
 ### Sandbox
-Sandboxie is one sandbox application in Windows. It separate programs from the OS to prevent unwanted changes from happening to your data, and applications, therefore programs in Sandboxie can only modify the contents of the sandbox.
+Sandboxie is one sandbox application in Windows. It separate programs from the OS to prevent unwanted changes from happening to data and applications. Therefore programs in Sandboxie can only modify the contents of the sandbox.
 The yellow border around the application window shows that the application is being sandboxed, adding another layer of defence in the system. 
 
 ![sandbox 1](/images/sandbox1.png)
