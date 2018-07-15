@@ -23,5 +23,6 @@ For Linux, I use the simple firejail to sandbox applications.
 
 ### Verify File Authencity and Integrity
 To ensure the authenticity and integrity of our download files, we could verify digital signatures to ensure that it was created by the person who signed it and that the contents of the file have not been tampered with by a third party. PGP can be used to verify the master signing key, release signing key and download file. Downside is digital signatures cannot prove that the signed file is not malicious. 
-![gpg 1](/images/gpg%201.png)
-![gpg 2](/images/gpg%202.png)
+
+![gpg 1](/images/gpg 1.png)
+![gpg 2](/images/gpg 2.png)
