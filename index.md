@@ -27,3 +27,8 @@ To ensure the authenticity and integrity of our download files, we could verify 
 ![gpg 1](/images/gpg-1.png)
 ![gpg 2](/images/gpg-2.png)
 Downside is digital signatures cannot prove that the signed file is not malicious. 
+
+### How to Wipe Files
+The normal delete or rm command will leave data behind. There are some tools that help to wipe and overwrite the space used by the deleted files.  srm is the secure version of rm. 
+![srm](/images/srm.png)
+Data may be present in memory after the system shuts down, sdrem command wipes the RAM. One pass with zeroes is good enough.
