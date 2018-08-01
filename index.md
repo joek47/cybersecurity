@@ -36,3 +36,11 @@ Downside is digital signatures cannot prove that the signed file is not maliciou
 The normal delete or rm command will leave data behind. There are some tools that help to wipe and overwrite the space used by the deleted files.  srm is the secure version of rm. 
 ![srm](/images/srm.png)
 Data may be present in memory after the system shuts down, sdmem command wipes the RAM. One pass with zeroes is good enough.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
