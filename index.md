@@ -1,14 +1,14 @@
-### Machine Learning password meter
+### Neural network password meter
 
 Most existing client-side password checkers rely on simple heuristics like counting the number of characters or character classes in a password. Artificial neural networks have been used to model resistance to password guessing, outperforming traditional rule based methods like hashcats. 
 
-By leveraging on natural language, tokenized models, or other neural networks ar- chitectures, we should be able to see passwords being guessed more effectively, develop better password meters and improve password creations for the mass. The network can also be compressed to portable size like few hundred kilobytes, making it suitable for mobile devices or on a web page.
+By leveraging on natural language, tokenized models, or other neural networks ar chitectures, we should be able to see passwords being guessed more effectively, develop better password meters and improve password creations for the mass. The network can also be compressed to portable size like few hundred kilobytes, making it suitable for mobile devices or on a web page.
 
 
-### Machine Learning based AV
-Machine learning can offer a generalised way of identifying malicious activiies. For e.g. port scanning which stand outs from normal network traffic, administrator account logging in to large numbers of workstations, huge data transfers to unfamiliar IP addresses would be easily identifiable as anomalous.
+### Machine learning based AV
+Machine learning can offer a generalised way of identifying malicious activiies. For e.g. port scanning which stands out from normal network traffic, administrator account logging in to large numbers of workstations, huge data transfers to unfamiliar IP addresses would be easily identifiable as anomalous.
 
-Consider the other side: a user falls for a spear phishing attack, his valuable documents and emails  are immediately stolen. These do not represent large data volumes and hence not flagged. Compromised helpdesk support account access workstations on a daily basis and in a manner correlated with user phone calls and support requests. This account is unlikely to be seen as anomalous. Google Chat is used as the command and control channel and only makes connections when in use. It’s likely that many systems on the network are already actively using this service. Therefore, the machine learning AV would not flag these scenarios as malicious.
+Consider the other side: a user falls for a spear phishing attack, his valuable documents and emails  are immediately stolen. These do not represent large data volumes and hence not flagged. Compromised helpdesk support access workstations on a daily basis and in a manner correlated with user phone calls and support requests. This account is unlikely to be seen as anomalous. Google Chat is used as the command and control channel and only makes connections when in use. It’s likely that many systems on the network are already actively using this service. Therefore, the machine learning AV would not flag these scenarios as malicious.
 
 ### OS security
 Linux may be more secure largely due to fewer exploits being discovered in Linux than in Windows. 
